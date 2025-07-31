@@ -5,5 +5,5 @@
 
 ![Simplilearn](https://raw.githubusercontent.com/sadinenisaisri/5248700_SADINENI-SAI-SRI/e84a5e1f74ed82fe48f88e1d8feb0b956025c37a/GIT/GIT%20TRAINING.png)
 
-
+![LINUX](https://github.com/sadinenisaisri/5248700_SADINENI-SAI-SRI/tree/a048efaffb536af7158b8e34b882712986954684/LINUX)
 
